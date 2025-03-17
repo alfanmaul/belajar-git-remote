@@ -1,0 +1,3 @@
+[submodule "script"]
+	path = script
+	url = git@github.com:alfanmaul/belajar-git-submodule.git
